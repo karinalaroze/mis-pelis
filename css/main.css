@@ -6789,13 +6789,14 @@ body {
 .waves-effect {
   background-color: white;
   color: #800000;
-  width: 40%;
+  width: 50%;
   height: 50px;
-  padding: 10px; }
+  padding: 10px;
+  font-size: 20px; }
 
 .password {
   text-align: center;
   color: white;
-  font-size: 20px; }
+  font-size: 25px; }
 
 /*# sourceMappingURL=main.css.map */
