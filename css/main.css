@@ -6916,6 +6916,9 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   padding-top: 7px;
   color: grey; }
 
+.info1 p {
+  margin-top: 44px; }
+
 .walter {
   border-radius: 50%;
   width: 35%;
