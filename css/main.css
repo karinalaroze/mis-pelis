@@ -6838,4 +6838,64 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   color: white;
   margin-top: 20%; }
 
+.details {
+  background-image: url("../img/pulp.jpg");
+  padding: 25vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; }
+
+.linea {
+  background-color: #DC143C; }
+
+.linea h5 {
+  color: white;
+  font-size: 37px; }
+
+.btn-floating.btn-large {
+  bottom: 718px;
+  width: 80px;
+  height: 80px; }
+
+.btn-floating.btn-large i {
+  color: #800000; }
+
+.btn-large i {
+  font-size: 4.6rem;
+  margin-top: 10px; }
+
+.boton3 {
+  color: white;
+  background-color: #800000;
+  width: 40%;
+  margin-left: 255px; }
+
+.star {
+  color: #800000;
+  padding-top: 10px; }
+
+.estrella {
+  font-size: 40px; }
+
+.nombre {
+  margin: 1px; }
+
+.categoria {
+  margin: 1px;
+  font-size: 30px;
+  color: grey; }
+
+.informacion {
+  font-size: 35px;
+  color: grey;
+  margin: 1px; }
+
+.subtitulo {
+  margin: 1px;
+  margin-top: -56px; }
+
+.lista {
+  font-size: 35px;
+  color: #800000; }
+
 /*# sourceMappingURL=main.css.map */
