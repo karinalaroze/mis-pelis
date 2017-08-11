@@ -6800,4 +6800,37 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   color: white;
   font-size: 25px; }
 
+.nav-wrapper {
+  background-color: #212121; }
+
+.lupa {
+  margin-left: 95%; }
+
+.titulo {
+  margin: 0px;
+  text-align: center;
+  color: white;
+  background-color: #212121;
+  font-family: "Anton", sans-serif; }
+
+.fondo2 {
+  height: 100vh;
+  background-color: grey; }
+
+.mb0 {
+  margin-bottom: 0; }
+
+.formulario {
+  padding-top: 80px; }
+
+.formulario p {
+  color: #800000;
+  font-size: 28px;
+  margin-left: 15%; }
+
+.formulario input {
+  margin-left: 15%;
+  width: 70%;
+  padding: 13px; }
+
 /*# sourceMappingURL=main.css.map */

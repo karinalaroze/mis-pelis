@@ -30,3 +30,43 @@
 	color: $blanco;
 	font-size: 25px;
 }
+
+.nav-wrapper{
+	background-color: $nav_color;
+}
+
+.lupa{
+	margin-left: 95%;
+}
+
+.titulo{
+	margin:0px;
+	text-align: center;
+	color: $blanco;
+	background-color: $nav_color;
+	font-family: $anton;
+}
+
+.fondo2{
+	height: 100vh;
+	background-color: $fondo2;
+}
+
+.mb0{
+	margin-bottom:0;
+}
+
+.formulario{
+	padding-top: 80px;
+}
+.formulario p{ 
+	color:$color_portada;
+	font-size: 28px;
+	margin-left: 15%;
+}
+
+.formulario input{
+	margin-left:15%;
+	width: 70%;
+	padding:13px;
+}
