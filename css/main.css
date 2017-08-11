@@ -6833,4 +6833,9 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   width: 70%;
   padding: 13px; }
 
+.boton2 {
+  background-color: #212121;
+  color: white;
+  margin-top: 20%; }
+
 /*# sourceMappingURL=main.css.map */
