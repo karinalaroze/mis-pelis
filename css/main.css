@@ -6916,4 +6916,50 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   padding-top: 7px;
   color: grey; }
 
+.walter {
+  border-radius: 50%;
+  width: 35%;
+  margin-top: 5%; }
+
+.info p {
+  font-size: 20px;
+  margin-top: -14px; }
+
+.nombres {
+  text-align: center;
+  margin-left: 390px; }
+
+.nombres1 {
+  margin-left: 88%; }
+
+.nombres2 {
+  margin-left: 89%; }
+
+.respuesta {
+  color: grey; }
+
+.respuesta1 {
+  margin-left: -14px;
+  color: grey; }
+
+.respuesta2 {
+  margin-left: 5px;
+  color: grey; }
+
+.favorites {
+  background-color: #800000;
+  padding: 25px;
+  color: white;
+  font-size: 35px; }
+
+.peli {
+  margin-left: 50px; }
+
+.peli2 {
+  margin-left: 30px; }
+
+.pelicula {
+  text-align: center;
+  color: #800000; }
+
 /*# sourceMappingURL=main.css.map */
