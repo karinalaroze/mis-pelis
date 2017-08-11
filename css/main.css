@@ -6898,6 +6898,9 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   font-size: 35px;
   color: #800000; }
 
+.nombreActor {
+  color: #800000; }
+
 .caja {
   background-color: #800000;
   width: 100%;
